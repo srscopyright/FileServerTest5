@@ -1,5 +1,5 @@
 <%-- =====COPYRIGHT===== --%>
-<%-- github http copyright text --%>
+<%-- Copyright 2007 - 2012 Service Repair Solutions, Inc. --%>
 <%-- =====COPYRIGHT===== --%>
 <%@ Page Title="Home Page" Language="C#" AutoEventWireup="true"
     CodeBehind="Default.aspx.cs" Inherits="Srs.WebPlatform.WebServices.Printer.Default" %>

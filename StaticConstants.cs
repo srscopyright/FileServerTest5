@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// github http copyright text
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
 // =====COPYRIGHT=====
 namespace Srs.WebPlatform.WebServices.Printer
 {

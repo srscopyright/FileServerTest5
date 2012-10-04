@@ -1,5 +1,5 @@
 <%-- =====COPYRIGHT===== --%>
-<%-- github http copyright text --%>
+<%-- Copyright 2007 - 2012 Service Repair Solutions, Inc. --%>
 <%-- =====COPYRIGHT===== --%>
 <%@ Assembly Name="Srs.WebPlatform.WebServices.Printer" %>
 <%@ ServiceHost Language="C#" Debug="true" Service="Srs.WebPlatform.WebServices.Printer.PrintService" Factory="Srs.WebPlatform.WebServices.Printer.AzureHostFactory" %>

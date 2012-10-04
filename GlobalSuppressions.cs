@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// github http copyright text
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
 // =====COPYRIGHT=====
 // This file is used by Code Analysis to maintain SuppressMessage 
 // attributes that are applied to this project.

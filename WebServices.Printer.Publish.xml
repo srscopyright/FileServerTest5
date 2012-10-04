@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- =====COPYRIGHT===== -->
-<!-- github http copyright text -->
+<!-- Copyright 2007 - 2012 Service Repair Solutions, Inc. -->
 <!-- =====COPYRIGHT===== -->
 <publishData>
   <publishProfile publishUrl="C:\IISSiteHost\SRSPrinter" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
